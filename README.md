@@ -47,7 +47,6 @@ Atualmente, participo da **Geração Caldeira 2026**, na trilha de **Inteligênc
   <img src="https://img.shields.io/badge/SQL-1565C0?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-1976D2?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1E88E5?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-0D47A1?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ### Dados e análise
@@ -73,30 +72,14 @@ Atualmente, participo da **Geração Caldeira 2026**, na trilha de **Inteligênc
 
 ## 🚀 Projetos em destaque
 
-### 📊 [Análise Financeira com Python](https://github.com/Felip-Git/analise-financeira-python)
 
-Projeto de análise de dados utilizando Python e Pandas para transformar uma base fictícia de vendas em indicadores que apoiam a tomada de decisões.
+### 🤖 [Desafio GC 2026 — IA & Dados](https://github.com/Felip-Git/GC_IA_DADOS_2026)
 
-- Análise de receita, custos, lucro e margem.
-- Evolução mensal do faturamento.
-- Ranking de produtos e clientes.
-- Visualização de resultados com Matplotlib.
+Repositório com atividades e desenvolvimento de projetos da trilha de Inteligência Artificial e Dados da Geração Caldeira 2026.
 
-**Tecnologias:** Python, Pandas e Matplotlib.
+Entre os estudos, estão atividades envolvendo desenvolvimento de APIs, consumo de dados externos e análise de dados aplicada a problemas empresariais.
 
----
-
-### 🗄️ [Database Financeiro com PostgreSQL](https://github.com/Felip-Git/database-financeiro-sql)
-
-Projeto de modelagem e análise de dados relacionais, utilizando SQL para explorar informações financeiras e comerciais.
-
-- Modelagem de banco de dados relacional.
-- Consultas para análise de faturamento.
-- Ranking de clientes e produtos.
-- Indicadores de lucro, margem e ticket médio.
-- Análise de inadimplência.
-
-**Tecnologias:** PostgreSQL e SQL.
+**Tecnologias e ferramentas:** Python, análise de dados e APIs.
 
 ---
 
@@ -111,16 +94,6 @@ Aplicação web desenvolvida para apoiar o controle de serviços de transporte d
 - Relatórios para acompanhamento dos serviços.
 
 **Tecnologias:** Python, Flask e PostgreSQL.
-
----
-
-### 🤖 [Desafio GC 2026 — IA & Dados](https://github.com/Felip-Git/GC_IA_DADOS_2026)
-
-Repositório com atividades e desenvolvimento de projetos da trilha de Inteligência Artificial e Dados da Geração Caldeira 2026.
-
-Entre os estudos, estão atividades envolvendo desenvolvimento de APIs, consumo de dados externos e análise de dados aplicada a problemas empresariais.
-
-**Tecnologias e ferramentas:** Python, análise de dados e APIs.
 
 ---
 
@@ -146,7 +119,7 @@ Entre os estudos, estão atividades envolvendo desenvolvimento de APIs, consumo 
 </p>
 
 <p align="center">
-  Estou sempre aberto a aprender, compartilhar conhecimento e desenvolver projetos que conectem tecnologia, dados e negócios.
+  Estou sempre em busca de aprendizado, compartilhando conhecimento e desenvolvendo projetos que conectem tecnologia, dados e negócios.
 </p>
 
 <!-- BANNER INFERIOR -->
