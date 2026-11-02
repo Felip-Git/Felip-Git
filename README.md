@@ -1,73 +1,158 @@
 
-<h1 align="center">Olá! Eu sou o Felipe Martins 👋</h1>
+<!-- BANNER SUPERIOR -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:42A5F5&height=180&section=header&text=Felipe%20Martins&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
+    width="100%"
+  />
+</p>
 
-<h3 align="center">
-  Estudante de ADS | Análise de Dados | Python | SQL
-</h3>
+<!-- EFEITO DE DIGITAÇÃO -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Estudante+de+ADS+no+IFSul;An%C3%A1lise+de+Dados+%7C+Python+%7C+SQL;Dados%2C+tecnologia+e+solu%C3%A7%C3%B5es+reais"
+    alt="Apresentação animada"
+  />
+</p>
 
 <p align="center">
-  Transformando dados em informações e desenvolvendo soluções
-  para otimizar processos e apoiar decisões.
+  <strong>Transformando dados em informação e tecnologia em soluções para problemas reais.</strong>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFSul.
-- 📊 Interessado em Análise de Dados e Inteligência Artificial.
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFSul**, interessado em utilizar tecnologia e dados para compreender problemas, otimizar processos e apoiar decisões.
+
+Minha trajetória profissional nas áreas fiscal e financeira despertou meu interesse por análise de informações, organização de processos e automação. Hoje, busco unir essa experiência ao desenvolvimento de soluções tecnológicas.
+
+Atualmente, participo da **Geração Caldeira 2026**, na trilha de **Inteligência Artificial e Dados**, onde venho aprofundando meus conhecimentos e desenvolvendo projetos práticos.
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas — IFSul.
+- 📊 Foco em Análise de Dados e organização de informações.
 - 🐍 Desenvolvendo projetos com Python e SQL.
-- ⚙️ Explorando automação de processos e desenvolvimento Back-End.
-- 🚀 Participante do Desafio GC 2026, na trilha de IA & Dados.
-- 📚 Em constante aprendizado através do IFSul e Alura.
-
-### 🛠️ Tecnologias e ferramentas
-
-**Linguagens e desenvolvimento**
-
-- Python
-- SQL
-- HTML
-- CSS
-
-
-**Dados e ferramentas**
-
-- Pandas
-- Excel
-- PostgreSQL
-- Jupyter Notebook
-- Git e GitHub
-
-### 📂 Projetos em destaque
-
-**1. Desafio GC 2026 — IA & Dados**
-
-Projeto voltado à identificação de inconsistências e padronização de descrições de serviços, utilizando técnicas de análise de dados e similaridade textual.
-
-**2. PL Mil Transportes**
-
-Desenvolvimento de uma aplicação web para gerenciamento de serviços de transporte, utilizando Python, Flask e PostgreSQL.
-
-**3. API Casa de Sucos**
-
-API desenvolvida em Python para consulta de informações nutricionais de frutas e gerenciamento de sucos, integrando dados externos.
-
-### 🎯 Atualmente estudando
-  
-- Análise e visualização de dados
-- Python para análise de dados e Back-End
-- SQL e banco de dados
-- Inteligência Artificial aplicada a dados
-- Automação de processos
-
-### 📫 Contato
-
-- LinkedIn: linkedin.com/in/felipe-martins-b62714237
-- GitHub:   https://github.com/Felip-Git
+- 🤖 Explorando aplicações de Inteligência Artificial.
+- ⚙️ Interesse em automação de processos e soluções para negócios.
+- 🚀 Aprendendo na prática por meio de projetos acadêmicos e desafios reais.
 
 ---
 
+## 🛠️ Tecnologias e ferramentas
+
+### Linguagens e desenvolvimento
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-1565C0?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-1976D2?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1E88E5?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-0D47A1?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### Dados e análise
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-0D47A1?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-1565C0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-1976D2?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-1E88E5?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D47A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### Back-end e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Flask-1565C0?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-1976D2?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-0D47A1?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 📊 [Análise Financeira com Python](https://github.com/Felip-Git/analise-financeira-python)
+
+Projeto de análise de dados utilizando Python e Pandas para transformar uma base fictícia de vendas em indicadores que apoiam a tomada de decisões.
+
+- Análise de receita, custos, lucro e margem.
+- Evolução mensal do faturamento.
+- Ranking de produtos e clientes.
+- Visualização de resultados com Matplotlib.
+
+**Tecnologias:** Python, Pandas e Matplotlib.
+
+---
+
+### 🗄️ [Database Financeiro com PostgreSQL](https://github.com/Felip-Git/database-financeiro-sql)
+
+Projeto de modelagem e análise de dados relacionais, utilizando SQL para explorar informações financeiras e comerciais.
+
+- Modelagem de banco de dados relacional.
+- Consultas para análise de faturamento.
+- Ranking de clientes e produtos.
+- Indicadores de lucro, margem e ticket médio.
+- Análise de inadimplência.
+
+**Tecnologias:** PostgreSQL e SQL.
+
+---
+
+### 🚐 [PL Mil Transportes](https://github.com/Felip-Git/plmil-transportes)
+
+Aplicação web desenvolvida para apoiar o controle de serviços de transporte de funcionários, considerando uma necessidade real de organização operacional.
+
+- Cadastro e gerenciamento de empresas.
+- Cadastro de motoristas e funcionários.
+- Registro e controle de serviços.
+- Cálculo de valores por quilometragem.
+- Relatórios para acompanhamento dos serviços.
+
+**Tecnologias:** Python, Flask e PostgreSQL.
+
+---
+
+### 🤖 [Desafio GC 2026 — IA & Dados](https://github.com/Felip-Git/GC_IA_DADOS_2026)
+
+Repositório com atividades e desenvolvimento de projetos da trilha de Inteligência Artificial e Dados da Geração Caldeira 2026.
+
+Entre os estudos, estão atividades envolvendo desenvolvimento de APIs, consumo de dados externos e análise de dados aplicada a problemas empresariais.
+
+**Tecnologias e ferramentas:** Python, análise de dados e APIs.
+
+---
+
+## 📚 Formação e aprendizado contínuo
+
+- **IFSul** — Análise e Desenvolvimento de Sistemas.
+- **Geração Caldeira 2026** — Trilha de Inteligência Artificial e Dados.
+- **Alura** — Formação e estudos em desenvolvimento Back-end com Python.
+- **Educadados** — Formação em Análise de Dados.
+- **Helen's Idiomas** — Estudos de inglês.
+
+---
+
+## 📫 Vamos nos conectar?
+
 <p align="center">
-  Sempre aprendendo, desenvolvendo e evoluindo.
+  <a href="https://www.linkedin.com/in/felipe-martins-b62714237/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Felip-Git">
+    <img src="https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Estou sempre aberto a aprender, compartilhar conhecimento e desenvolver projetos que conectem tecnologia, dados e negócios.
+</p>
+
+<!-- BANNER INFERIOR -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,50:1565C0,100:0D47A1&height=110&section=footer"
+    width="100%"
+  />
 </p>
